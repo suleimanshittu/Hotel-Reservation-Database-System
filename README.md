@@ -20,7 +20,7 @@ OfficeNumber;
 #### Python Script: 
 “HotelReservation.py.”
 
-#### Populate Database Using Python:
+#### Populating the Database Using Python:
 “The HotelReservation.py reads the attached Guest.CSV file, Bookings.CSV file, Rooms.CSV file,
 ReservationManager.CSV file and PriceTypes.CSV file to populate my tables.”
 
