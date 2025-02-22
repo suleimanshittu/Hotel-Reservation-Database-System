@@ -8,7 +8,7 @@ automatically deletes related entities in Bookings. Since all the FDs are key FD
 Codd Normal Form.
 
 ## The Entity Relationship Diagram
- ![Tux, the Linux mascot](/assets/images/tux.png)
+ ![Tux, the Linux mascot](/Image/ERD.png)
 
 ## Queries to retrieve information from the database
 1. SELECT OfficeNumber, COUNT(*) AS manager_count FROM ReservationManager GROUP BY
